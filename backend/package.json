@@ -1,0 +1,14 @@
+{
+  "name": "cedrazvpn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "node-ssh": "^8.0.0",
+    "path": "^0.12.7",
+    "ssh2shell": "^1.9.3"
+  }
+}
