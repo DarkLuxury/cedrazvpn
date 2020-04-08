@@ -1,0 +1,1 @@
+Esta pasta serve para receber um json de cada login, que servirá depois para verificar se um teste ja existe ou não.
